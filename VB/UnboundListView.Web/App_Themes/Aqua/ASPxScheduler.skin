@@ -1,0 +1,40 @@
+<%@ Register TagPrefix="dx" Namespace="DevExpress.Data" Assembly="DevExpress.Data.v10.2, Version=10.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
+<%@ Register TagPrefix="dxwschs" Namespace="DevExpress.Web.ASPxScheduler" Assembly="DevExpress.Web.ASPxScheduler.v10.2, Version=10.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
+<%@ Register Assembly="DevExpress.XtraScheduler.v10.2.Core, Version=10.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.XtraScheduler" TagPrefix="temp" %>
+<dxwschs:ASPxScheduler runat="server">
+	<Styles CssFilePath="{0}/styles.css" CssPostfix="Aqua" SelectionColor="#ffd765">
+		<Menu>
+			<SubMenu GutterWidth="0px" />
+			<SubMenuItem ImageSpacing="4px" />
+		</Menu>
+		<FormEditors>
+			<CalendarFooter Spacing="17px" />
+			<CalendarHeader Spacing="1px" />
+		</FormEditors>
+		<ViewNavigator ButtonSpacing="2px" />
+		<ViewSelector ButtonSpacing="2px" />
+	</Styles>
+	<Images SpriteCssFilePath="{0}/sprite.css">
+        <FormEditors>
+            <DropDownEditDropDown>
+                <SpriteProperties HottrackedCssClass="dxEditors_edtDropDownHover_Aqua" PressedCssClass="dxEditors_edtDropDownPressed_Aqua" />
+            </DropDownEditDropDown>
+            <SpinEditIncrement>
+                <SpriteProperties HottrackedCssClass="dxEditors_edtSpinEditIncrementImageHover_Aqua" PressedCssClass="dxEditors_edtSpinEditIncrementImagePressed_Aqua" />
+            </SpinEditIncrement>        
+            <SpinEditDecrement>
+                <SpriteProperties HottrackedCssClass="dxEditors_edtSpinEditDecrementImageHover_Aqua" PressedCssClass="dxEditors_edtSpinEditDecrementImagePressed_Aqua" />
+            </SpinEditDecrement>
+            <SpinEditLargeIncrement>
+                <SpriteProperties HottrackedCssClass="dxEditors_edtSpinEditLargeIncImageHover_Aqua" PressedCssClass="dxEditors_edtSpinEditLargeIncImagePressed_Aqua" />
+            </SpinEditLargeIncrement>        
+            <SpinEditLargeDecrement>
+                <SpriteProperties HottrackedCssClass="dxEditors_edtSpinEditLargeDecImageHover_Aqua" PressedCssClass="dxEditors_edtSpinEditLargeDecImagePressed_Aqua" />
+            </SpinEditLargeDecrement>        
+        </FormEditors>
+        <LoadingPanel Url="Scheduler/Loading.gif"></LoadingPanel>
+	</Images>
+    <OptionsLoadingPanel ImagePosition="Top" />
+</dxwschs:ASPxScheduler>
+
+

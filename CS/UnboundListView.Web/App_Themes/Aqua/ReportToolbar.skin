@@ -1,0 +1,23 @@
+<%@ Register TagPrefix="dx" Namespace="DevExpress.Data" Assembly="DevExpress.Data.v10.2, Version=10.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
+<%@ Register TagPrefix="dxxr" Namespace="DevExpress.XtraReports.Web" Assembly="DevExpress.XtraReports.v10.2.Web, Version=10.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" %>
+<dxxr:ReportToolbar runat="server" ItemSpacing="2px" SeparatorHeight="100%" SeparatorColor="#A3C0E8" SeparatorWidth="1px" Font-Names="Tahoma" Font-Size="9pt">
+  <Styles CssPostfix="Aqua" CssFilePath="{0}/styles.css">
+    <ButtonStyle VerticalAlign="Middle" HorizontalAlign="Center"></ButtonStyle>
+    <TextBoxStyle>
+        <Margins MarginLeft="2px" MarginRight="2px" />
+    </TextBoxStyle>
+    <ComboBoxStyle>
+        <Margins MarginLeft="3px" MarginRight="3px" />
+    </ComboBoxStyle>
+    <LabelStyle ForeColor="#2C4D79">
+        <Margins MarginLeft="3px" MarginRight="3px" />
+    </LabelStyle>
+	<ComboBoxButtonStyle>
+		<DropDownButtonImage>
+			<SpriteProperties HottrackedCssClass="dxEditors_edtDropDownHover_Aqua" PressedCssClass="dxEditors_edtDropDownPressed_Aqua" />
+		</DropDownButtonImage>
+	</ComboBoxButtonStyle>	
+  </Styles>
+  <Images SpriteCssFilePath="{0}/sprite.css" />
+  <Border BorderStyle="Solid" BorderWidth="1px" BorderColor="#A3C0E8" />
+</dxxr:ReportToolbar>
