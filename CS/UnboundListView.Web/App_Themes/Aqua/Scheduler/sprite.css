@@ -1,0 +1,769 @@
+.dxScheduler_SmartTag_Aqua,
+.dxScheduler_TimeMarker_Aqua,
+.dxScheduler_Appointment_DayClock_Aqua,
+.dxScheduler_Appointment_EndArrow_Aqua,
+.dxScheduler_Appointment_NightClock_Aqua,
+.dxScheduler_Appointment_NoRecurrence_Aqua,
+.dxScheduler_Appointment_Recurrence_Aqua,
+.dxScheduler_Appointment_Reminder_Aqua,
+.dxScheduler_Appointment_StartArrow_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_00_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_05_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_10_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_15_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_20_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_25_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_30_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_35_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_40_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_45_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_50_Aqua,
+.dxScheduler_AppointmentClockArrows_day_hour_55_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_00_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_05_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_10_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_15_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_20_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_25_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_30_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_35_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_40_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_45_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_50_Aqua,
+.dxScheduler_AppointmentClockArrows_day_minute_55_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_00_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_05_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_10_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_15_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_20_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_25_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_30_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_35_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_40_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_45_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_50_Aqua,
+.dxScheduler_AppointmentClockArrows_night_hour_55_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_00_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_05_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_10_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_15_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_20_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_25_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_30_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_35_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_40_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_45_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_50_Aqua,
+.dxScheduler_AppointmentClockArrows_night_minute_55_Aqua,
+.dxScheduler_InplaceEditor_Cancel_Aqua,
+.dxScheduler_InplaceEditor_EditForm_Aqua,
+.dxScheduler_InplaceEditor_Save_Aqua,
+.dxScheduler_Menu_Delete_Aqua,
+.dxScheduler_Menu_GoToDate_Aqua,
+.dxScheduler_Menu_NewAppointment_Aqua,
+.dxScheduler_Menu_RecurringAppointment_Aqua,
+.dxScheduler_MoreButton_Bottom_Aqua,
+.dxScheduler_MoreButton_BottomHover_Aqua,
+.dxScheduler_MoreButton_Top_Aqua,
+.dxScheduler_MoreButton_TopHover_Aqua,
+.dxScheduler_NavigationButton_Backward_Aqua,
+.dxScheduler_NavigationButton_BackwardDisabled_Aqua,
+.dxScheduler_NavigationButton_BackwardHover_Aqua,
+.dxScheduler_NavigationButton_Forward_Aqua,
+.dxScheduler_NavigationButton_ForwardDisabled_Aqua,
+.dxScheduler_NavigationButton_ForwardHover_Aqua,
+.dxScheduler_ResourceNavigator_Decrease_Aqua,
+.dxScheduler_ResourceNavigator_DecreaseDisabled_Aqua,
+.dxScheduler_ResourceNavigator_DecreaseHover_Aqua,
+.dxScheduler_ResourceNavigator_First_Aqua,
+.dxScheduler_ResourceNavigator_FirstDisabled_Aqua,
+.dxScheduler_ResourceNavigator_FirstHover_Aqua,
+.dxScheduler_ResourceNavigator_Increase_Aqua,
+.dxScheduler_ResourceNavigator_IncreaseDisabled_Aqua,
+.dxScheduler_ResourceNavigator_IncreaseHover_Aqua,
+.dxScheduler_ResourceNavigator_Last_Aqua,
+.dxScheduler_ResourceNavigator_LastDisabled_Aqua,
+.dxScheduler_ResourceNavigator_LastHover_Aqua,
+.dxScheduler_ResourceNavigator_Next_Aqua,
+.dxScheduler_ResourceNavigator_NextDisabled_Aqua,
+.dxScheduler_ResourceNavigator_NextHover_Aqua,
+.dxScheduler_ResourceNavigator_NextPage_Aqua,
+.dxScheduler_ResourceNavigator_NextPageDisabled_Aqua,
+.dxScheduler_ResourceNavigator_NextPageHover_Aqua,
+.dxScheduler_ResourceNavigator_Prev_Aqua,
+.dxScheduler_ResourceNavigator_PrevDisabled_Aqua,
+.dxScheduler_ResourceNavigator_PrevHover_Aqua,
+.dxScheduler_ResourceNavigator_PrevPage_Aqua,
+.dxScheduler_ResourceNavigator_PrevPageDisabled_Aqua,
+.dxScheduler_ResourceNavigator_PrevPageHover_Aqua,
+.dxScheduler_StatusInfo_Error_Aqua,
+.dxScheduler_StatusInfo_Info_Aqua,
+.dxScheduler_StatusInfo_Warning_Aqua,
+.dxScheduler_Tooltip_BottomLeft_Aqua,
+.dxScheduler_Tooltip_BottomRight_Aqua,
+.dxScheduler_Tooltip_BottomStem_Aqua,
+.dxScheduler_Tooltip_Empty_Aqua,
+.dxScheduler_Tooltip_TopLeft_Aqua,
+.dxScheduler_Tooltip_TopRight_Aqua,
+.dxScheduler_ViewNavigator_Backward_Aqua,
+.dxScheduler_ViewNavigator_Forward_Aqua {
+    background-image: url('sprite.png');
+    -background-image: url('sprite.gif'); /* for IE6 */
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+
+.dxScheduler_SmartTag_Aqua {
+    background-position: -80px -312px;
+    width: 6px;
+    height: 9px;
+}
+
+.dxScheduler_TimeMarker_Aqua {
+    background-position: -22px -22px;
+    width: 3px;
+    height: 5px;
+}
+
+.dxScheduler_Appointment_DayClock_Aqua {
+    background-position: -47px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_Appointment_EndArrow_Aqua {
+    background-position: -84px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_Appointment_NightClock_Aqua {
+    background-position: -121px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_Appointment_NoRecurrence_Aqua {
+    background-position: -158px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_Appointment_Recurrence_Aqua {
+    background-position: -195px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_Appointment_Reminder_Aqua {
+    background-position: -232px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_Appointment_StartArrow_Aqua {
+    background-position: -269px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_00_Aqua {
+    background-position: -306px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_05_Aqua {
+    background-position: -343px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_10_Aqua {
+    background-position: -380px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_15_Aqua {
+    background-position: -417px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_20_Aqua {
+    background-position: -454px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_25_Aqua {
+    background-position: -491px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_30_Aqua {
+    background-position: -528px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_35_Aqua {
+    background-position: -565px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_40_Aqua {
+    background-position: -602px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_45_Aqua {
+    background-position: -639px -22px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_50_Aqua {
+    background-position: -22px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_hour_55_Aqua {
+    background-position: -59px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_00_Aqua {
+    background-position: -96px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_05_Aqua {
+    background-position: -133px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_10_Aqua {
+    background-position: -170px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_15_Aqua {
+    background-position: -207px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_20_Aqua {
+    background-position: -244px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_25_Aqua {
+    background-position: -281px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_30_Aqua {
+    background-position: -318px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_35_Aqua {
+    background-position: -355px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_40_Aqua {
+    background-position: -392px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_45_Aqua {
+    background-position: -429px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_50_Aqua {
+    background-position: -466px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_day_minute_55_Aqua {
+    background-position: -503px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_00_Aqua {
+    background-position: -540px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_05_Aqua {
+    background-position: -577px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_10_Aqua {
+    background-position: -614px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_15_Aqua {
+    background-position: -651px -59px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_20_Aqua {
+    background-position: -22px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_25_Aqua {
+    background-position: -59px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_30_Aqua {
+    background-position: -96px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_35_Aqua {
+    background-position: -133px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_40_Aqua {
+    background-position: -170px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_45_Aqua {
+    background-position: -207px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_50_Aqua {
+    background-position: -244px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_hour_55_Aqua {
+    background-position: -281px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_00_Aqua {
+    background-position: -318px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_05_Aqua {
+    background-position: -355px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_10_Aqua {
+    background-position: -392px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_15_Aqua {
+    background-position: -429px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_20_Aqua {
+    background-position: -466px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_25_Aqua {
+    background-position: -503px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_30_Aqua {
+    background-position: -540px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_35_Aqua {
+    background-position: -577px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_40_Aqua {
+    background-position: -614px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_45_Aqua {
+    background-position: -651px -96px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_50_Aqua {
+    background-position: -22px -133px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_AppointmentClockArrows_night_minute_55_Aqua {
+    background-position: -59px -133px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxScheduler_InplaceEditor_Cancel_Aqua {
+    background-position: -96px -133px;
+    width: 19px;
+    height: 19px;
+}
+
+.dxScheduler_InplaceEditor_EditForm_Aqua {
+    background-position: -137px -133px;
+    width: 19px;
+    height: 19px;
+}
+
+.dxScheduler_InplaceEditor_Save_Aqua {
+    background-position: -178px -133px;
+    width: 19px;
+    height: 19px;
+}
+
+.dxScheduler_Menu_Delete_Aqua {
+    background-position: -108px -312px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxScheduler_Menu_GoToDate_Aqua {
+    background-position: -146px -312px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxScheduler_Menu_NewAppointment_Aqua {
+    background-position: -184px -312px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxScheduler_Menu_RecurringAppointment_Aqua {
+    background-position: -222px -312px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxScheduler_MoreButton_Bottom_Aqua {
+    background-position: -219px -133px;
+    width: 21px;
+    height: 19px;
+}
+
+.dxScheduler_MoreButton_BottomHover_Aqua {
+    background-position: -262px -133px;
+    width: 21px;
+    height: 19px;
+}
+
+.dxScheduler_MoreButton_Top_Aqua {
+    background-position: -305px -133px;
+    width: 21px;
+    height: 19px;
+}
+
+.dxScheduler_MoreButton_TopHover_Aqua {
+    background-position: -348px -133px;
+    width: 21px;
+    height: 19px;
+}
+
+.dxScheduler_NavigationButton_Backward_Aqua {
+    background-position: -391px -133px;
+    width: 31px;
+    height: 21px;
+}
+
+.dxScheduler_NavigationButton_BackwardDisabled_Aqua {
+    background-position: -432px -133px;
+    width: 31px;
+    height: 21px;
+}
+
+.dxScheduler_NavigationButton_BackwardHover_Aqua {
+    background-position: -473px -133px;
+    width: 31px;
+    height: 21px;
+}
+
+.dxScheduler_NavigationButton_Forward_Aqua {
+    background-position: -514px -133px;
+    width: 31px;
+    height: 21px;
+}
+
+.dxScheduler_NavigationButton_ForwardDisabled_Aqua {
+    background-position: -555px -133px;
+    width: 31px;
+    height: 21px;
+}
+
+.dxScheduler_NavigationButton_ForwardHover_Aqua {
+    background-position: -596px -133px;
+    width: 31px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_Decrease_Aqua {
+    background-position: -22px -196px;
+    width: 20px;
+    height: 20px;
+}
+
+.dxScheduler_ResourceNavigator_DecreaseDisabled_Aqua {
+    background-position: -63px -196px;
+    width: 20px;
+    height: 20px;
+}
+
+.dxScheduler_ResourceNavigator_DecreaseHover_Aqua {
+    background-position: -104px -196px;
+    width: 20px;
+    height: 20px;
+}
+
+.dxScheduler_ResourceNavigator_First_Aqua {
+    background-position: -145px -196px;
+    width: 26px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_FirstDisabled_Aqua {
+    background-position: -186px -196px;
+    width: 26px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_FirstHover_Aqua {
+    background-position: -227px -196px;
+    width: 26px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_Increase_Aqua {
+    background-position: -268px -196px;
+    width: 20px;
+    height: 20px;
+}
+
+.dxScheduler_ResourceNavigator_IncreaseDisabled_Aqua {
+    background-position: -309px -196px;
+    width: 20px;
+    height: 20px;
+}
+
+.dxScheduler_ResourceNavigator_IncreaseHover_Aqua {
+    background-position: -350px -196px;
+    width: 20px;
+    height: 20px;
+}
+
+.dxScheduler_ResourceNavigator_Last_Aqua {
+    background-position: -391px -196px;
+    width: 26px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_LastDisabled_Aqua {
+    background-position: -432px -196px;
+    width: 26px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_LastHover_Aqua {
+    background-position: -473px -196px;
+    width: 26px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_Next_Aqua {
+    background-position: -514px -196px;
+    width: 19px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_NextDisabled_Aqua {
+    background-position: -555px -196px;
+    width: 19px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_NextHover_Aqua {
+    background-position: -596px -196px;
+    width: 19px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_NextPage_Aqua {
+    background-position: -637px -196px;
+    width: 24px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_NextPageDisabled_Aqua {
+    background-position: -22px -237px;
+    width: 24px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_NextPageHover_Aqua {
+    background-position: -63px -237px;
+    width: 24px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_Prev_Aqua {
+    background-position: -104px -237px;
+    width: 19px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_PrevDisabled_Aqua {
+    background-position: -145px -237px;
+    width: 19px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_PrevHover_Aqua {
+    background-position: -186px -237px;
+    width: 19px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_PrevPage_Aqua {
+    background-position: -227px -237px;
+    width: 24px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_PrevPageDisabled_Aqua {
+    background-position: -268px -237px;
+    width: 24px;
+    height: 21px;
+}
+
+.dxScheduler_ResourceNavigator_PrevPageHover_Aqua {
+    background-position: -309px -237px;
+    width: 24px;
+    height: 21px;
+}
+
+.dxScheduler_StatusInfo_Error_Aqua {
+    background-position: -350px -237px;
+    width: 48px;
+    height: 48px;
+}
+
+.dxScheduler_StatusInfo_Info_Aqua {
+    background-position: -420px -237px;
+    width: 48px;
+    height: 48px;
+}
+
+.dxScheduler_StatusInfo_Warning_Aqua {
+    background-position: -490px -237px;
+    width: 48px;
+    height: 48px;
+}
+
+.dxScheduler_Tooltip_BottomLeft_Aqua {
+    background-position: -560px -237px;
+    width: 7px;
+    height: 7px;
+}
+
+.dxScheduler_Tooltip_BottomRight_Aqua {
+    background-position: -589px -237px;
+    width: 7px;
+    height: 7px;
+}
+
+.dxScheduler_Tooltip_BottomStem_Aqua {
+    background-position: -618px -237px;
+    width: 40px;
+    height: 53px;
+}
+
+.dxScheduler_Tooltip_Empty_Aqua {
+    background-position: -260px -312px;
+    width: 1px;
+    height: 1px;
+}
+
+.dxScheduler_Tooltip_TopLeft_Aqua {
+    background-position: -22px -312px;
+    width: 7px;
+    height: 7px;
+}
+
+.dxScheduler_Tooltip_TopRight_Aqua {
+    background-position: -51px -312px;
+    width: 7px;
+    height: 7px;
+}
+
+.dxScheduler_ViewNavigator_Backward_Aqua {
+    background-position: -283px -312px;
+    width: 7px;
+    height: 10px;
+}
+
+.dxScheduler_ViewNavigator_Forward_Aqua {
+    background-position: -309px -312px;
+    width: 7px;
+    height: 10px;
+}
+
