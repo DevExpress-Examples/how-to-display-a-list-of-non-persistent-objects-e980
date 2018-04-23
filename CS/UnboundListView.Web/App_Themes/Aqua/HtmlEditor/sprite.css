@@ -1,0 +1,742 @@
+.dxHtmlEditor_Icons_heCut_Aqua,
+.dxHtmlEditor_Icons_heCutDisabled_Aqua,
+.dxHtmlEditor_Icons_heCopy_Aqua,
+.dxHtmlEditor_Icons_heCopyDisabled_Aqua,
+.dxHtmlEditor_Icons_hePaste_Aqua,
+.dxHtmlEditor_Icons_hePasteDisabled_Aqua,
+.dxHtmlEditor_Icons_hePasteFromWord_Aqua,
+.dxHtmlEditor_Icons_hePasteFromWordDisabled_Aqua,
+.dxHtmlEditor_Icons_heUndo_Aqua,
+.dxHtmlEditor_Icons_heUndoDisabled_Aqua,
+.dxHtmlEditor_Icons_heRedo_Aqua,
+.dxHtmlEditor_Icons_heRedoDisabled_Aqua,
+.dxHtmlEditor_Icons_heBold_Aqua,
+.dxHtmlEditor_Icons_heBoldDisabled_Aqua,
+.dxHtmlEditor_Icons_heItalic_Aqua,
+.dxHtmlEditor_Icons_heItalicDisabled_Aqua,
+.dxHtmlEditor_Icons_heUnderline_Aqua,
+.dxHtmlEditor_Icons_heUnderlineDisabled_Aqua,
+.dxHtmlEditor_Icons_heStrikethrough_Aqua,
+.dxHtmlEditor_Icons_heStrikethroughDisabled_Aqua,
+.dxHtmlEditor_Icons_heCenter_Aqua,
+.dxHtmlEditor_Icons_heCenterDisabled_Aqua,
+.dxHtmlEditor_Icons_heLeft_Aqua,
+.dxHtmlEditor_Icons_heLeftDisabled_Aqua,
+.dxHtmlEditor_Icons_heRight_Aqua,
+.dxHtmlEditor_Icons_heRightDisabled_Aqua,
+.dxHtmlEditor_Icons_heJustifyFull_Aqua,
+.dxHtmlEditor_Icons_heJustifyFullDisabled_Aqua,
+.dxHtmlEditor_Icons_heSuperscript_Aqua,
+.dxHtmlEditor_Icons_heSuperscriptDisabled_Aqua,
+.dxHtmlEditor_Icons_heSubscript_Aqua,
+.dxHtmlEditor_Icons_heSubscriptDisabled_Aqua,
+.dxHtmlEditor_Icons_heIndent_Aqua,
+.dxHtmlEditor_Icons_heIndentDisabled_Aqua,
+.dxHtmlEditor_Icons_heOutdent_Aqua,
+.dxHtmlEditor_Icons_heOutdentDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertOrderedList_Aqua,
+.dxHtmlEditor_Icons_heInsertOrderedListDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertUnorderedList_Aqua,
+.dxHtmlEditor_Icons_heInsertUnorderedListDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertImageDialog_Aqua,
+.dxHtmlEditor_Icons_heInsertImageDialogDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertLinkDialog_Aqua,
+.dxHtmlEditor_Icons_heInsertLinkDialogDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertTableDialog_Aqua,
+.dxHtmlEditor_Icons_heInsertTableDialogDisabled_Aqua,
+.dxHtmlEditor_Icons_heChangeTableDialog_Aqua,
+.dxHtmlEditor_Icons_heChangeTableDialogDisabled_Aqua,
+.dxHtmlEditor_Icons_heChangeTableCellDialog_Aqua,
+.dxHtmlEditor_Icons_heChangeTableCellDialogDisabled_Aqua,
+.dxHtmlEditor_Icons_heChangeTableColumnDialog_Aqua,
+.dxHtmlEditor_Icons_heChangeTableColumnDialogDisabled_Aqua,
+.dxHtmlEditor_Icons_heChangeTableRowDialog_Aqua,
+.dxHtmlEditor_Icons_heChangeTableRowDialogDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertTableRowAbove_Aqua,
+.dxHtmlEditor_Icons_heInsertTableRowAboveDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertTableRowBelow_Aqua,
+.dxHtmlEditor_Icons_heInsertTableRowBelowDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertTableColumnOnLeft_Aqua,
+.dxHtmlEditor_Icons_heInsertTableColumnOnLeftDisabled_Aqua,
+.dxHtmlEditor_Icons_heInsertTableColumnOnRight_Aqua,
+.dxHtmlEditor_Icons_heInsertTableColumnOnRightDisabled_Aqua,
+.dxHtmlEditor_Icons_heSplitTableCellHorizontal_Aqua,
+.dxHtmlEditor_Icons_heSplitTableCellHorizontalDisabled_Aqua,
+.dxHtmlEditor_Icons_heSplitTableCellVertical_Aqua,
+.dxHtmlEditor_Icons_heSplitTableCellVerticalDisabled_Aqua,
+.dxHtmlEditor_Icons_heMergeTableCellHorizontal_Aqua,
+.dxHtmlEditor_Icons_heMergeTableCellHorizontalDisabled_Aqua,
+.dxHtmlEditor_Icons_heMergeTableCellVertical_Aqua,
+.dxHtmlEditor_Icons_heMergeTableCellVerticalDisabled_Aqua,
+.dxHtmlEditor_Icons_heDeleteTable_Aqua,
+.dxHtmlEditor_Icons_heDeleteTableDisabled_Aqua,
+.dxHtmlEditor_Icons_heDeleteTableColumn_Aqua,
+.dxHtmlEditor_Icons_heDeleteTableColumnDisabled_Aqua,
+.dxHtmlEditor_Icons_heDeleteTableRow_Aqua,
+.dxHtmlEditor_Icons_heDeleteTableRowDisabled_Aqua,
+.dxHtmlEditor_Icons_heUnlink_Aqua,
+.dxHtmlEditor_Icons_heUnlinkDisabled_Aqua,
+.dxHtmlEditor_Icons_heBackColor_Aqua,
+.dxHtmlEditor_Icons_heBackColorDisabled_Aqua,
+.dxHtmlEditor_Icons_heForeColor_Aqua,
+.dxHtmlEditor_Icons_heForeColorDisabled_Aqua,
+.dxHtmlEditor_Icons_heRemoveFormat_Aqua,
+.dxHtmlEditor_Icons_heRemoveFormatDisabled_Aqua,
+.dxHtmlEditor_Icons_hePrint_Aqua,
+.dxHtmlEditor_Icons_hePrintDisabled_Aqua,
+.dxHtmlEditor_Icons_heCheckSpelling_Aqua,
+.dxHtmlEditor_Icons_heCheckSpellingDisabled_Aqua,
+.dxHtmlEditor_heToolbarPopOut_Aqua,
+.dxHtmlEditor_heToolbarPopOutDisabled_Aqua,
+.dxHtmlEditor_heToolbarPopOutHover_Aqua,
+.dxHtmlEditor_heConstrainProportionsMiddleOn_Aqua,
+.dxHtmlEditor_heConstrainProportionsMiddleOff_Aqua,
+.dxHtmlEditor_heConstrainProportionsBottom_Aqua,
+.dxHtmlEditor_heConstrainProportionsTop_Aqua,
+.dxHtmlEditor_RoundPanel_herpHeaderTopLeftCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpHeaderTopRightCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpBottomLeftCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpBottomRightCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpTopLeftCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpTopRightCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpGroupBoxBottomLeftCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpGroupBoxBottomRightCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpGroupBoxTopLeftCorner_Aqua,
+.dxHtmlEditor_RoundPanel_herpGroupBoxTopRightCorner_Aqua {
+    background-image: url('sprite.png');
+    -background-image: url('sprite.gif'); /* for IE6 */
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+
+.dxHtmlEditor_Icons_heCut_Aqua {
+    background-position: -48px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heCutDisabled_Aqua {
+    background-position: -72px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heCopy_Aqua {
+    background-position: 0px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heCopyDisabled_Aqua {
+    background-position: -24px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_hePaste_Aqua {
+    background-position: -96px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_hePasteDisabled_Aqua {
+    background-position: -120px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_hePasteFromWord_Aqua {
+    background-position: -144px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_hePasteFromWordDisabled_Aqua {
+    background-position: -168px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heUndo_Aqua {
+    background-position: -96px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heUndoDisabled_Aqua {
+    background-position: -120px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heRedo_Aqua {
+    background-position: -48px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heRedoDisabled_Aqua {
+    background-position: -72px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heBold_Aqua {
+    background-position: -48px -26px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heBoldDisabled_Aqua {
+    background-position: -72px -26px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heItalic_Aqua {
+    background-position: 0px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heItalicDisabled_Aqua {
+    background-position: -24px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heUnderline_Aqua {
+    background-position: -48px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heUnderlineDisabled_Aqua {
+    background-position: -72px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heStrikethrough_Aqua {
+    background-position: -96px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heStrikethroughDisabled_Aqua {
+    background-position: -120px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heCenter_Aqua {
+    background-position: -96px -26px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heCenterDisabled_Aqua {
+    background-position: -120px -26px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heLeft_Aqua {
+    background-position: -96px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heLeftDisabled_Aqua {
+    background-position: -120px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heRight_Aqua {
+    background-position: -144px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heRightDisabled_Aqua {
+    background-position: -168px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heJustifyFull_Aqua {
+    background-position: -48px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heJustifyFullDisabled_Aqua {
+    background-position: -72px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSuperscript_Aqua {
+    background-position: 0px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSuperscriptDisabled_Aqua {
+    background-position: -24px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSubscript_Aqua {
+    background-position: -144px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSubscriptDisabled_Aqua {
+    background-position: -168px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heIndent_Aqua {
+    background-position: -96px -98px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heIndentDisabled_Aqua {
+    background-position: -120px -98px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heOutdent_Aqua {
+    background-position: -48px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heOutdentDisabled_Aqua {
+    background-position: -72px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertOrderedList_Aqua {
+    background-position: -48px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertOrderedListDisabled_Aqua {
+    background-position: -72px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertUnorderedList_Aqua {
+    background-position: -144px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertUnorderedListDisabled_Aqua {
+    background-position: -168px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertImageDialog_Aqua {
+    background-position: -144px -98px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertImageDialogDisabled_Aqua {
+    background-position: -168px -98px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertLinkDialog_Aqua {
+    background-position: 0px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertLinkDialogDisabled_Aqua {
+    background-position: -24px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableDialog_Aqua {
+    background-position: 0px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableDialogDisabled_Aqua {
+    background-position: -24px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableDialog_Aqua {
+    background-position: -48px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableDialogDisabled_Aqua {
+    background-position: -72px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableCellDialog_Aqua {
+    background-position: -144px -26px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableCellDialogDisabled_Aqua {
+    background-position: -168px -26px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableColumnDialog_Aqua {
+    background-position: 0px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableColumnDialogDisabled_Aqua {
+    background-position: -24px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableRowDialog_Aqua {
+    background-position: -96px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heChangeTableRowDialogDisabled_Aqua {
+    background-position: -120px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableRowAbove_Aqua {
+    background-position: -48px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableRowAboveDisabled_Aqua {
+    background-position: -72px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableRowBelow_Aqua {
+    background-position: -96px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableRowBelowDisabled_Aqua {
+    background-position: -120px -146px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableColumnOnLeft_Aqua {
+    background-position: -96px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableColumnOnLeftDisabled_Aqua {
+    background-position: -120px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableColumnOnRight_Aqua {
+    background-position: -144px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heInsertTableColumnOnRightDisabled_Aqua {
+    background-position: -168px -122px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSplitTableCellHorizontal_Aqua {
+    background-position: 0px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSplitTableCellHorizontalDisabled_Aqua {
+    background-position: -24px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSplitTableCellVertical_Aqua {
+    background-position: -48px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heSplitTableCellVerticalDisabled_Aqua {
+    background-position: -72px -242px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heMergeTableCellHorizontal_Aqua {
+    background-position: -144px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heMergeTableCellHorizontalDisabled_Aqua {
+    background-position: -168px -170px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heMergeTableCellVertical_Aqua {
+    background-position: 0px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heMergeTableCellVerticalDisabled_Aqua {
+    background-position: -24px -194px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heDeleteTable_Aqua {
+    background-position: -96px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heDeleteTableDisabled_Aqua {
+    background-position: -120px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heDeleteTableColumn_Aqua {
+    background-position: -144px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heDeleteTableColumnDisabled_Aqua {
+    background-position: -168px -74px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heDeleteTableRow_Aqua {
+    background-position: 0px -98px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heDeleteTableRowDisabled_Aqua {
+    background-position: -24px -98px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heUnlink_Aqua {
+    background-position: -144px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heUnlinkDisabled_Aqua {
+    background-position: -168px -266px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heBackColor_Aqua {
+    background-position: 0px -26px;
+    width: 16px;
+    height: 13px;
+}
+
+.dxHtmlEditor_Icons_heBackColorDisabled_Aqua {
+    background-position: -24px -26px;
+    width: 16px;
+    height: 13px;
+}
+
+.dxHtmlEditor_Icons_heForeColor_Aqua {
+    background-position: -48px -98px;
+    width: 16px;
+    height: 13px;
+}
+
+.dxHtmlEditor_Icons_heForeColorDisabled_Aqua {
+    background-position: -72px -98px;
+    width: 16px;
+    height: 13px;
+}
+
+.dxHtmlEditor_Icons_heRemoveFormat_Aqua {
+    background-position: -96px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heRemoveFormatDisabled_Aqua {
+    background-position: -120px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_hePrint_Aqua {
+    background-position: 0px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_hePrintDisabled_Aqua {
+    background-position: -24px -218px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heCheckSpelling_Aqua {
+    background-position: -144px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_Icons_heCheckSpellingDisabled_Aqua {
+    background-position: -168px -50px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxHtmlEditor_heToolbarPopOut_Aqua {
+    background-position: -135px 0px;
+    width: 7px;
+    height: 7px;
+}
+
+.dxHtmlEditor_heToolbarPopOutDisabled_Aqua {
+    background-position: -150px 0px;
+    width: 7px;
+    height: 7px;
+}
+
+.dxHtmlEditor_heToolbarPopOutHover_Aqua {
+    background-position: -165px 0px;
+    width: 7px;
+    height: 7px;
+}
+
+.dxHtmlEditor_heConstrainProportionsMiddleOn_Aqua {
+    background-position: -19px 0px;
+    width: 11px;
+    height: 18px;
+}
+
+.dxHtmlEditor_heConstrainProportionsMiddleOff_Aqua {
+    background-position: 0px 0px;
+    width: 11px;
+    height: 18px;
+}
+
+.dxHtmlEditor_heConstrainProportionsBottom_Aqua {
+    background-position: -38px 0px;
+    width: 11px;
+    height: 6px;
+}
+
+.dxHtmlEditor_heConstrainProportionsTop_Aqua {
+    background-position: -38px -14px;
+    width: 11px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpHeaderTopLeftCorner_Aqua {
+    background-position: -109px 0px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpHeaderTopRightCorner_Aqua {
+    background-position: -122px 0px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpBottomLeftCorner_Aqua {
+    background-position: -57px -13px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpBottomRightCorner_Aqua {
+    background-position: -70px -13px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpTopLeftCorner_Aqua {
+    background-position: -57px 0px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpTopRightCorner_Aqua {
+    background-position: -70px 0px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpGroupBoxBottomLeftCorner_Aqua {
+    background-position: -83px -13px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpGroupBoxBottomRightCorner_Aqua {
+    background-position: -96px -13px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpGroupBoxTopLeftCorner_Aqua {
+    background-position: -83px 0px;
+    width: 5px;
+    height: 5px;
+}
+
+.dxHtmlEditor_RoundPanel_herpGroupBoxTopRightCorner_Aqua {
+    background-position: -96px 0px;
+    width: 5px;
+    height: 5px;
+}
+
+
