@@ -1,0 +1,259 @@
+.dxtlControl_Aqua
+{
+	cursor: default;
+	font: 9pt Tahoma;
+	color: black;
+	border: none 1px #A3C0E8;
+}
+.dxtlControl_Aqua caption
+{
+    background: #F7FAFF;
+    color: #000000;
+	border: solid 1px #A3C0E8;
+    border-bottom: 0;
+	font-weight: normal;
+    text-align: center;		
+	padding: 5px 5px 6px;
+}
+
+/* Indent cells */
+.dxtlIndent_Aqua, .dxtlIndentWithButton_Aqua
+{			
+	background: white;
+	vertical-align: top;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+.dxtlIndent_Aqua
+{
+	padding: 0 11px;
+}
+.dxtlIndentWithButton_Aqua
+{
+	padding: 4px;
+}
+.dxtlSelectionCell_Aqua
+{
+	padding: 0 2px;
+	border: solid 1px #C9D6E9;
+}
+
+/* Tree-lines cells */
+.dxtlLineFirst_Aqua
+{
+	background-image: url('CssImages/TreeLineFirst.gif');	
+}
+.dxtlLineMiddle_Aqua
+{
+	background-image: url('CssImages/TreeLineMiddle.gif');
+	
+}
+.dxtlLineLast_Aqua
+{
+	background-image: url('CssImages/TreeLineLast.gif');
+	
+}
+.dxtlLineRoot_Aqua
+{
+	background-image: url('CssImages/TreeLineRoot.gif');
+	background-repeat: repeat-y;	
+}
+
+/* Headers */
+.dxtlHeader_Aqua 
+{
+	background: url('CssImages/HeaderBack.gif') repeat-x #E2F0FF;	
+	border: solid 1px #A3C0E8;
+	padding: 5px;
+	font-weight: normal;		
+}
+.dxtlHeader_Aqua table.dxtl 
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+.dxtlHeader_Aqua td.dxtl
+{
+	padding: 0;
+}
+.dxtlHeader_Aqua, .dxtlHeader_Aqua td.dxtl 
+{	
+    color: #283B56;
+	font: 9pt Tahoma;
+	white-space: nowrap;
+	text-align: left;
+}
+
+/* Nodes */
+.dxtlNode_Aqua
+{
+	background: white;	
+}
+.dxtlAltNode_Aqua
+{
+	background: #F7FAFF;	
+}
+.dxtlSelectedNode_Aqua
+{
+	background: #FFBD69;
+}
+.dxtlFocusedNode_Aqua
+{
+	background: #FF9C3C;
+}
+.dxtlInlineEditNode_Aqua
+{
+	background: white;
+}
+.dxtlEditFormDisplayNode_Aqua
+{
+	background: #ECF4FE;
+}
+.dxtlNode_Aqua td.dxtl, 
+.dxtlAltNode_Aqua  td.dxtl, 
+.dxtlSelectedNode_Aqua td.dxtl, 
+.dxtlFocusedNode_Aqua td.dxtl,
+.dxtlEditFormDisplayNode_Aqua td.dxtl,
+.dxtlCommandCell_Aqua
+{
+	padding: 4px 5px 5px;
+	border: solid 1px #C9D6E9;
+	white-space: nowrap;
+	font-size: 9pt;
+    font-family: Tahoma;
+}
+.dxtlInlineEditNode_Aqua td.dxtl
+{
+	border: solid 1px #C9D6E9;
+	padding: 1px;
+}
+
+/* Preview */
+.dxtlPreview_Aqua
+{
+	background-color: #F7FAFF;
+	color: #000000;	
+	padding: 15px 15px 20px;
+	border: solid 1px #C9D6E9;
+	font: 9pt Tahoma;	
+}
+
+/* Footers */
+.dxtlGroupFooter_Aqua
+{
+	background-color: #EEF3FF;	
+}
+.dxtlFooter_Aqua
+{
+	background-color: #EEF3FF;	
+}
+.dxtlGroupFooter_Aqua td.dxtl,
+.dxtlFooter_Aqua td.dxtl
+{
+	padding: 5px 6px 7px;
+	white-space: nowrap;
+	text-align: left;
+	border: solid 1px #C9D6E9;
+	font: 9pt Tahoma;
+}
+
+/* Pagers */
+.dxtlPagerTopPanel_Aqua 
+{
+	border-bottom: none 1px #A3C0E8;
+	background-color: #C7DFFF;	
+}
+.dxtlPagerBottomPanel_Aqua 
+{	
+	border-top: none 1px #A3C0E8;
+	background-color: #C7DFFF;	
+}
+.dxtlPagerTopPanel_Aqua,
+.dxtlPagerBottomPanel_Aqua 
+{
+	padding: 2px 0;
+}
+
+/* Editing */
+.dxtlEditForm_Aqua 
+{
+	background: #F7FAFF;
+	border: solid 1px #C9D6E9;
+	padding: 8px 10px 10px;
+}
+.dxtlEditFormCaption_Aqua,
+.dxtlEditFormEditCell_Aqua
+{
+	padding: 4px;
+}
+.dxtlEditFormCaption_Aqua
+{
+	padding-left: 10px;
+	white-space: nowrap;
+}
+.dxtlError_Aqua
+{
+	background: #DBEBFF;
+	color: #FF0000;
+	padding: 6px 10px;
+	border: solid 1px #C9D6E9;
+	font: 9pt Tahoma;		
+}
+
+/* Links */
+.dxtlControl_Aqua a,
+.dxtlCommandCell_Aqua a 
+{
+	color: #5689C5;
+	text-decoration: underline;
+}
+.dxtlControl_Aqua a:hover 
+{
+	color:  #F39128;
+	text-decoration: underline;
+}
+.dxtlHeader_Aqua a,
+.dxtlFocusedNode_Aqua a,
+.dxtlSelectedNode_Aqua a 
+{
+	color: #5689C5;
+}
+.dxtlHeader_Aqua a:hover,
+.dxtlFocusedNode_Aqua a:hover,
+.dxtlSelectedNode_Aqua a:hover 
+{
+	color: #F39128;
+}
+.dxtlCommandCell_Aqua a 
+{
+    margin-right: 3px;
+}
+
+/* Loading panel */
+.dxtlLoadingPanel_Aqua
+{
+    font: 9pt Tahoma;
+	color: #2C4D79;
+	background-color: White;
+	border: solid 1px #67A2C6;
+}
+.dxtlLoadingPanel_Aqua td.dx
+{
+    white-space: nowrap;
+	text-align: center;
+	padding: 10px 20px 8px;
+}
+.dxtlLoadingDiv_Aqua
+{
+	background: white;
+	opacity: 0.01;
+	filter: alpha(opacity=1);
+}
+
+/* Disabled */
+.dxtlDisabled_Aqua,
+.dxtlDisabled_Aqua .dxtl_Aqua
+{
+	color: #A1A1A1;
+	cursor: default;
+}

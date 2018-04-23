@@ -1,0 +1,133 @@
+.dxXtraReports_BtnFirstPage_Aqua,
+.dxXtraReports_BtnFirstPageDisabled_Aqua,
+.dxXtraReports_BtnLastPage_Aqua,
+.dxXtraReports_BtnLastPageDisabled_Aqua,
+.dxXtraReports_BtnNextPage_Aqua,
+.dxXtraReports_BtnNextPageDisabled_Aqua,
+.dxXtraReports_BtnPrevPage_Aqua,
+.dxXtraReports_BtnPrevPageDisabled_Aqua,
+.dxXtraReports_BtnPrint_Aqua,
+.dxXtraReports_BtnPrintDisabled_Aqua,
+.dxXtraReports_BtnPrintPage_Aqua,
+.dxXtraReports_BtnPrintPageDisabled_Aqua,
+.dxXtraReports_BtnSave_Aqua,
+.dxXtraReports_BtnSaveDisabled_Aqua,
+.dxXtraReports_BtnSaveWindow_Aqua,
+.dxXtraReports_BtnSaveWindowDisabled_Aqua,
+.dxXtraReports_BtnSearch_Aqua,
+.dxXtraReports_BtnSearchDisabled_Aqua {
+    background-image: url('sprite.png');
+    -background-image: url('sprite.gif'); /* for IE6 */
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+
+.dxXtraReports_BtnFirstPage_Aqua {
+    background-position: -16px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnFirstPageDisabled_Aqua {
+    background-position: -16px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnLastPage_Aqua {
+    background-position: -32px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnLastPageDisabled_Aqua {
+    background-position: -32px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnNextPage_Aqua {
+    background-position: -64px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnNextPageDisabled_Aqua {
+    background-position: -64px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnPrevPage_Aqua {
+    background-position: -48px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnPrevPageDisabled_Aqua {
+    background-position: -48px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnPrint_Aqua {
+    background-position: -80px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnPrintDisabled_Aqua {
+    background-position: -80px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnPrintPage_Aqua {
+    background-position: -96px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnPrintPageDisabled_Aqua {
+    background-position: -96px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnSave_Aqua {
+    background-position: -112px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnSaveDisabled_Aqua {
+    background-position: -112px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnSaveWindow_Aqua {
+    background-position: -128px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnSaveWindowDisabled_Aqua {
+    background-position: -128px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnSearch_Aqua {
+    background-position: 0px 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.dxXtraReports_BtnSearchDisabled_Aqua {
+    background-position: 0px -16px;
+    width: 16px;
+    height: 16px;
+}
+
+

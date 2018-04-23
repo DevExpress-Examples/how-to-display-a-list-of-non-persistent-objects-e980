@@ -1,0 +1,63 @@
+.dxTreeList_CollapsedButton_Aqua,
+.dxTreeList_ExpandedButton_Aqua,
+.dxTreeList_SortAsc_Aqua,
+.dxTreeList_SortDesc_Aqua,
+.dxTreeList_DragAndDropArrowDown_Aqua,
+.dxTreeList_DragAndDropArrowUp_Aqua,
+.dxTreeList_DragAndDropHide_Aqua,
+.dxTreeList_DragAndDropNode_Aqua {
+    background-image: url('sprite.png');
+    -background-image: url('sprite.gif'); /* for IE6 */
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+
+.dxTreeList_CollapsedButton_Aqua {
+    background-position: -66px 0px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxTreeList_ExpandedButton_Aqua {
+    background-position: -66px -18px;
+    width: 15px;
+    height: 15px;
+}
+
+.dxTreeList_SortAsc_Aqua {
+    background-position: -49px 0px;
+    width: 7px;
+    height: 5px;
+}
+
+.dxTreeList_SortDesc_Aqua {
+    background-position: -49px -19px;
+    width: 7px;
+    height: 5px;
+}
+
+.dxTreeList_DragAndDropArrowDown_Aqua {
+    background-position: -30px 0px;
+    width: 11px;
+    height: 9px;
+}
+
+.dxTreeList_DragAndDropArrowUp_Aqua {
+    background-position: -30px -17px;
+    width: 11px;
+    height: 9px;
+}
+
+.dxTreeList_DragAndDropHide_Aqua {
+    background-position: 0px 0px;
+    width: 22px;
+    height: 22px;
+}
+
+.dxTreeList_DragAndDropNode_Aqua {
+    background-position: -83px 0px;
+    width: 13px;
+    height: 13px;
+}
+
+
