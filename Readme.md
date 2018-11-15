@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Book.cs](./CS/UnboundListView.Module/Book.cs) (VB: [Book.vb](./VB/UnboundListView.Module/Book.vb))
+* [Duplicate.cs](./CS/UnboundListView.Module/Duplicate.cs) (VB: [Duplicate.vb](./VB/UnboundListView.Module/Duplicate.vb))
+* [Module.cs](./CS/UnboundListView.Module/Module.cs) (VB: [Module.vb](./VB/UnboundListView.Module/Module.vb))
+* **[ShowDuplicateBooksController.cs](./CS/UnboundListView.Module/ShowDuplicateBooksController.cs) (VB: [ShowDuplicateBooksController.vb](./VB/UnboundListView.Module/ShowDuplicateBooksController.vb))**
+<!-- default file list end -->
 # How to: Display a List of Non-Persistent Objects
 
 
