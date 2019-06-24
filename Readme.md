@@ -7,6 +7,9 @@
 * [Updater.cs](./CS/UnboundListView.Module/Updater.cs) (VB: [Updater.vb](./VB/UnboundListView.Module/Updater.vb))
 <!-- default file list end -->
 # How to: Display a List of Non-Persistent Objects
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e980)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to display a list of non-persistent objects. The complete description is available in the <a href="http://help.devexpress.com/#Xaf/CustomDocument3167"><u>How to: Display a List of Non-Persistent Objects</u></a> help topic.<br />
