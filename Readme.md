@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to: Display a List of Non-Persistent Objects
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e980)**
+**[[Run Online]](https://codecentral.devexpress.com/e980/)**
 <!-- run online end -->
 
 
